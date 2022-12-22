@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "cocoamqtt",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/emqx/CocoaMQTT.git",
+      "state" : {
+        "revision" : "2bb3a92eb40dbe21d4deed57e37da68459239406",
+        "version" : "2.0.7"
+      }
+    },
+    {
+      "identity" : "mqttcocoaasyncsocket",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/leeway1208/MqttCocoaAsyncSocket",
+      "state" : {
+        "revision" : "8c61a10eab8c9bc3a4d28883c1a25f6a271400f2",
+        "version" : "1.0.5"
+      }
+    },
+    {
+      "identity" : "starscream",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/daltoniam/Starscream.git",
+      "state" : {
+        "revision" : "a063fda2b8145a231953c20e7a646be254365396",
+        "version" : "3.1.2"
+      }
+    }
+  ],
+  "version" : 2
+}
